@@ -1,6 +1,6 @@
 {
-  "homepage": "http://masambuOfficial.github.io/reactjsWeb01",
-  "name": "gpt3_jsm",
+  "homepage": "http://masambuOfficial.github.io/gpt3_reactjs",
+  "name": "gpt3_reactjs",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
